@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="temp">
+    <nav>
+        <div class="up" id="up">
+            <span>abch@linux: ~/</span>
+            <div class="right">
+                <img src="./static/css/min.svg">
+                <img src="./static/css/max.svg">
+                <img src="./static/css/cancel.svg">
+            </div>
+        </div>
+        <div class="bottom">
+            <ul>
+                <li>File</li>
+                <li>Edit</li>
+                <li>View</li>
+                <li>Search</li>
+                <li>Terminal</li>
+                <li>Help</li>
+            </ul>
+        </div>
+    </nav>
+
+        <div class="middle" >
+            <div class="monitor">
+                <span class="smallheading">Monitor</span>
+                <div id="content">
+                    <p><span class="green">abch@linux:</span><span class="blue"> ~/</span> Listening for DOS...</p>
+                </div>
+            </div>
+
+            <div class="request">
+                <span class="smallheading">Request</span>
+                <div id="requestinfo">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/ajaxrequest.js') }}"></script>
+</body>
+</html>

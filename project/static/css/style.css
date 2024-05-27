@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color:white;
+}
+body{
+    background-color: rgb(0, 0, 0)
+}
+
+.flex{
+    display: flex;
+}
+
+
+nav{
+    padding: 0px 25px 0px 25px;
+    font-size: 20px;
+    border-bottom: 2px solid #5a02ff;
+
+}
+
+.up{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px 20px 0px 0px;
+    margin-top: 5px;
+    
+}
+.up span{
+    margin-left: 45vw;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.right{
+    padding-right: 15px;
+}
+
+.bottom{
+    padding: 5px 3px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    column-gap : 15px;
+}
+
+.monitor{
+    position: relative;
+    padding: 30px;
+}
+
+.request{
+    position: relative;
+    padding: 30px;
+}
+
+.smallheading{
+    background-color: black;
+    color: white;
+    padding: 4px 9px;
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+    position: absolute;
+    top:-15px;
+    left: 43%;
+
+}
+
+.temp{
+    border-radius: 20px 20px 0px 0px;
+    margin: 25px 26px 0px 25px;
+    border: 2px solid #5a02ff;
+    height: 95vh;
+}
+
+.middle{
+    margin: 30px 50px;
+    display:flex;
+    column-gap: 30px;
+
+}
+
+.middle > div{
+    border : 2px solid red;
+    height: 450px;
+    width:100vw;
+    /* box-shadow: 0px 0px 10px 4px rgb(197, 67, 67); */
+}
+
+.middle > div:hover{
+    box-shadow: 0px 0px 10px 4px rgb(197, 67, 67);
+}
+
+#content p{
+    padding:5px 0px;
+    font-weight: 530;
+    font-size: 18px;
+}
+
+.blue{
+    color:rgb(0, 162, 250);
+}
+.green{
+    color:#52F419;
+}
+.red{
+    color:red;
+}
+
+
+#requestinfo p{
+    font-weight: 600;
+    font-size: 15px;
+}
+
+#requestinfo{
+    height: 100%;
+    overflow: auto;
+}
+
+.right{
+    cursor: pointer;
+}
