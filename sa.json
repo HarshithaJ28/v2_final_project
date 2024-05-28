@@ -1,0 +1,13 @@
+{
+	"type": "service_account",
+	"project_id": "august-broker-417007",
+	"private_key_id": "4761dac25c76ca3158e54cd08813c34af3823bfe",
+	"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeULBnsSGdQpTI\nZgEuRUkOoa2TjHiTXA0sUFcwslOkkJ1Ec8b3WOBHfStBPzQ8HXDAC99etbqjEl+v\n3y9sv3OMli7f9v7PXh1uhefaKHTcdaU12Q40XvpsMgoSZ4h/4Sa7YpaA14humoVr\nV0BpL0YJDwOyGiRFOf5BCowL2bU7XnuZvQRa4QoawwADateA9bTdgSf9d97EqaGl\nYq7Gl643OndJ3d0f1z34JO/z7DzkaNDMUQbSAUKLcDibVoMVHnLh32J3s0iK7Aaf\nyp2e2icMhova4wStN6vEp4XqqanUyS5rJEOlXWNCvksExyif3tSNpFsGj3ogHXYm\nBt5R66SHAgMBAAECggEAPApA5IpWQ7RJBbk9sGUhYFWrpP4MimJKMqijcHno48ve\ngOPhrNO9dw8+1MdaEYReys6V327PQeIJfQMJEtaGxWX9j/21xEIeqlhJRkC6lRNe\n3Q2c5/qvQVI25KT0LP9f94fbqTBUcxHSEJPt/xYpGu1hSu3EHKbySItt8l6V71X8\nljGkJeeR6GtndUl9nvdFeonJJ39xPjsiTtp+xlcxVoESpAmTB/RnNhbg+loLkW/Z\nftotQqbJ59gOJaZX2LhqWxov3N1o/CLnpXS0o/8WEERISiQTELSvrmxB7LxjrWyi\njBgJxzb4vqsZ2c554Au6mIAtearAlup6OEGTFZa4YQKBgQDMNXY0RufESlDCM9Pi\ny+4D1Dq8uf+KZJn2xiEKtsznR6jwRcL0S0dsBwVfgTV565H/RYCMpX5WRXaqpBc5\n0gZ4skJ5Qd3B5y+FWtv0+XHPBzOvG/rPeSjIAOQMeT/lZiEytGff0ZcE1yj6LgjX\nN2sIhsOZrD2miIb3AhSn3QyqJwKBgQDGd4UL9M8Z/PL4r50wNIoRnuuWQfxgp/i2\nsQBadG7mVUqpi6PPff3ObK42cIz5vf8TlU9Mn8cRGXQmVgBs91hciOsNR7jnaDgg\njI9CepfxxQR+nDPqWxzrXWyHajsZYgpqPCpo/sZKwEVgsQBFlq68qYGRjrkxs3V2\nnBJF37WOoQKBgBfpYq/4ZYcslIxI+VSjQHmeTkpvFSclZInq5U+V3CRw1a1c3dkx\nP2m84LowLQzbsrrLbqQJdOOxOpX8pOOWXj+fz/zW45qi8YOSAhOLafIuC7VDd3j3\n3PiechWr1PmNnfGMAmXI6wAcGaZB4bMhwBy9ewXxjz6C2hruWXDWh3cdAoGBAINv\nX9M9O3KQjDCZzNXB1bY5svd9l7BDTXlf20YMWe18isehzMh7PfzZCL7Q5uv2IdlM\nRooOPn1aiAtjZUDExeXyXwgaeZ/260TTEYULP1lECuf2doM79/j/lAJSHfV/cjpM\nwiFqqNOUZd3VGsL7OZmEAGTvSkJaAO6eCZPwxYJBAoGAJsrOuaJsDrsGkFy7JbwY\n7uouIohRT4dZtgNTS15DyeRjgxeX3o/K6mxLs28HOtgmhuTt+HnAuX6cByOWMQdd\n4fapUkiEa8sZdyer/c3wmxbiMX8BgdtCcw4upHou/uIRwJ0DQU6M7tBailkGs6IJ\nS6LdONoMC0uo/NP9cu5z3Mc=\n-----END PRIVATE KEY-----\n",
+	"client_email": "upload-pcap-files-gcs@august-broker-417007.iam.gserviceaccount.com",
+	"client_id": "105735370716706112670",
+	"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+	"token_uri": "https://oauth2.googleapis.com/token",
+	"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+	"client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upload-pcap-files-gcs%40august-broker-417007.iam.gserviceaccount.com",
+	"universe_domain": "googleapis.com"
+}
